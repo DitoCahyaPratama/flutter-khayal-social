@@ -1,4 +1,4 @@
-# flutter_social_ui
+# flutter_khayal_social
 
 A new Flutter project.
 
